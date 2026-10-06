@@ -24,7 +24,7 @@ Open these first. Forks in this org are reference copies, not my projects.
 | Project | What it does | Where to look |
 | --- | --- | --- |
 | [BiteRank](https://github.com/manojkr-ai-labs/zomato-restaurant-recommendation) | Restaurant recommendations: filter a real dataset, then a Groq model ranks and explains the fit. FastAPI + Next.js. | Repo |
-| [InterviewGap](https://github.com/manojkr-ai-labs/interviewgap) | One resume + one job description → fit score, quote-backed gaps, 7-day plan, scored mock interview. HackerEarth AI Innovation Arena, Oct 2026. | [Public build](https://vibecodearena.ai/share/b71810a4-7864-469b-952e-d1a168231c57) |
+| [InterviewGap](https://github.com/manojkr-ai-labs/interviewgap) | One resume + one job description → fit score, quote-backed gaps, 7-day plan, scored mock interview. HackerEarth AI Innovation Arena, Oct 2026. | [Open the demo](https://manojkr-ai-labs.github.io/interviewgap/) |
 
 ## How I build
 
